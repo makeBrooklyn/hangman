@@ -219,6 +219,7 @@ def play_hangman():
         # Tell the user they won
         print("Congratulations! You guessed the word:", word)
 
+#define for incorporation into a larger games suite.
 if __name__ == "__main__":
     #def main():
     # Set the initial state of the play again variable to true for the first
